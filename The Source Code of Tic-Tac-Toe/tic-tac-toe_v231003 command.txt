@@ -1,2 +1,0 @@
-编译指令
-g++ tic-tac-toe_v231003_board.c tic-tac-toe_v231003_chessmove_computer_lev1.c tic-tac-toe_v231003_chessmove_computer_lev2.c tic-tac-toe_v231003_chessmove_player.c tic-tac-toe_v231003_chesspiecesset.c tic-tac-toe_v231003_coordinates.c tic-tac-toe_v231003_gameinstruction.c tic-tac-toe_v231003_gamepaceset.c tic-tac-toe_v231003_gmaeprocess.c tic-tac-toe_v231003_judge.c tic-tac-toe_v231003_levelset.c tic-tac-toe_v231003_main.c tic-tac-toe_v231003_pagedesign.c -o ttt.exe
